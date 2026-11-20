@@ -27,7 +27,7 @@ This project focuses on the assembly, configuration, and validation of an S500 q
 
 The project specifications, hardware inventory, constraints, validation criteria, and preliminary schedule are available in:
 
-`Cahier_des_charges_Drone_S500_Pixhawk.pdf`
+`Project_Specifications_S500_Pixhawk.pdf`
 
 ## Current Limitations
 
